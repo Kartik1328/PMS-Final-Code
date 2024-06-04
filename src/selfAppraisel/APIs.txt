@@ -1,0 +1,19 @@
+APIs USED:
+    ("http://localhost:8080/api/getBySelfAsmAll")
+    ("http://localhost:8080/api/getByDevGoals/1")
+    ("http://localhost:8080/api/getByProfile/1")
+    ("http://localhost:8080/api/postByDg", addDevGoals)
+    ("http://localhost:8080/api/getBySelfAsmDraft/10")
+    ("http://localhost:8080/api/getBySelfAsm/10")
+    ("http://localhost:8080/api/postBySelfAsmDraft", AllDraftRatingComments)
+    ("http://localhost:8080/api/getBySelfAsmDraft/10")
+    ("http://localhost:8080/api/postBySelfAsm", AllSubmitRatingComments)
+    ("http://localhost:8080/api/getBySelfAsm/10")
+  ('http://localhost:8080/api/getByEmployeeStatus')
+  ("http://localhost:8080/api/getBySelfAsm/10")
+  ("http://localhost:8080/api/getByManagerAsm/20")
+
+
+
+
+
